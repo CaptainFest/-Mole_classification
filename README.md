@@ -8,4 +8,4 @@ DNN, which classifies moles into three classes, using the resnet and the transfe
 <li> 300 images  valid dataset 
 <li> 600 images  test  dataset 
 
-Result:
+## Result:
