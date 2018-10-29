@@ -8,6 +8,9 @@ DNN, which classifies moles into three classes, using the resnet and the transfe
 <li> 300 images  valid dataset 
 <li> 600 images  test  dataset 
 
+## Epoch:
+<li> 20
+
 ## Result:
 <li> ~69% accuracy on train
 <li> ~65.5% accuracy on test
