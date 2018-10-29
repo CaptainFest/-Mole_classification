@@ -3,7 +3,7 @@
 DNN, which classifies moles into three classes, using the resnet and the transfer learning method.
 3 classes of moles represented by nevus, keratosis, melanoma
 
-##Important libraries:
+## Important libraries:
 <li> Tensroflow, keras, scikit-learn(sklearn)
 
 ## Data:
